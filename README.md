@@ -30,10 +30,4 @@ Je suis FelinaeBlanc, une développeuse passionnée par l'obfuscation et la comp
 
 ---
 
-### 📌 Projets épinglés
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FelinaeBlanc&repo=NomDuProjet&theme=radical)](https://github.com/FelinaeBlanc/LittleShell)
-
----
-
 Merci de visiter mon profil! 😊
