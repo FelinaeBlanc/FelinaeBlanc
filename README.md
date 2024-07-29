@@ -1,13 +1,6 @@
 ### Bonjour! 👋
 
-Je suis FelinaeBlanc, une développeuse passionnée par l'obfuscation et la compilation. J'adore travailler avec les technologies DRM et je suis experte en GLua (Garry's Mod). Bienvenue sur mon profil GitHub!
-
----
-
-### 👨‍💻 À propos de moi
-
-- 🔭 Je travaille actuellement sur un projet d'obfuscation appelé **Felin** (dans un dépôt privé)
-- 🌱 Mon prochain projet sera un robot financier
+Je suis FelinaeBlanc, un développeur passionné par l'obfuscation et la compilation. J'adore travailler avec les technologies DRM et je suis expert en GLua (Garry's Mod). Bienvenue sur mon profil GitHub!
 
 ---
 
